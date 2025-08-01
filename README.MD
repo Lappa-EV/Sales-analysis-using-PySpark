@@ -8,7 +8,7 @@
 
 Набор данных включает 11 столбцов:
 
-![column.png](//column.png)
+![column.png](/column.png)
 
 ## Задачи
 
